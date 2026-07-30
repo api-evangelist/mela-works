@@ -1,7 +1,28 @@
 aid: mela-works
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mela-works.png
 name: Mela Works
-description: Mela Works is a company surfaced as a portfolio company of techstars and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Mela Works (mela.work) is a mobile-first construction and maintenance
+  site-management platform that connects field teams with the back office. It turns
+  voice dictation into structured daily reports and site minutes using AI, manages
+  an annotated cloud photo archive, tracks attendance with clock-in/clock-out, reads
+  DDT/invoices, controls costs (AI-calculated hours and materials), and produces blockchain-notarized
+  digital site logs with legal/evidential validity. The app works offline with automatic
+  sync and is offered in Italian, English, and Spanish for construction firms, works
+  directors (DL), safety coordinators (CSE), and installers. It integrates with WhatsApp,
+  Google Calendar, Outlook, Gmail, Excel, and accounting/management systems (RIB Presto,
+  Holded, Billin, Zucchetti). Mela Works is a Techstars portfolio company. As of this
+  enrichment pass it publishes no public developer API, SDK, or webhook surface.'
 url: https://raw.githubusercontent.com/api-evangelist/mela-works/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,19 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Construction
+- Construction Tech
+- Field Service
+- Site Management
+- Project Management
+- Productivity
+- Mobile
+- AI
+- Document Management
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +53,33 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://mela.work/
+  url: https://www.mela.work/
+- type: Blog
+  url: https://www.mela.work/blog
+- type: Pricing
+  url: https://www.mela.work/pricing
+- type: Support
+  url: https://www.mela.work/support
+- type: SignUp
+  url: https://app.mela.work/auth/signup/password
+- type: TermsOfService
+  url: https://www.mela.work/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.mela.work/privacy-policy
+- type: Compliance
+  url: https://www.mela.work/compliance-center-legality-security-and-evidential-validity
+- type: TrustCenter
+  url: security/mela-works-trust-center.yml
+- type: Conformance
+  url: conformance/mela-works-conformance.yml
+- type: DomainSecurity
+  url: security/mela-works-domain-security.yml
+- type: WellKnown
+  url: well-known/mela-works-well-known.yml
+- type: LLMsTxt
+  url: llms/mela-works-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
