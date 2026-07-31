@@ -1,0 +1,32 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.mela.work/compliance-center-legality-security-and-evidential-validity
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: 'Compliance center states: "Mela Works is certified ISO/IEC 27001 (Information
+    Security Management)"'
+- id: gdpr
+  conforms: true
+  evidence: 'Compliance center states the system is designed to comply with the General
+    Data Protection Regulation (GDPR) and applicable Italian regulations; customer
+    data stored in EU data centers.'
+- id: agid-digital-preservation
+  conforms: true
+  evidence: AgID-compliant digital preservation (conservazione a norma) referenced
+    for notarized/blockchain-timestamped site documents.
+- id: soc2
+  conforms: false
+- id: hipaa
+  conforms: false
+- id: oauth2
+  conforms: false
+  evidence: No public API or OAuth surface published.
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: No public API published.
+regulatory_alignment:
+- D.M. 49/2018 (Site Supervision)
+- D.Lgs. 36/2023 (Public Procurement Code)
+notes: Mela Works is a construction/maintenance site-management SaaS with no public
+  developer API. Compliance posture captured from the public Compliance Center page.

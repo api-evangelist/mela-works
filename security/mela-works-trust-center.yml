@@ -1,0 +1,19 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.mela.work/compliance-center-legality-security-and-evidential-validity
+url: https://www.mela.work/compliance-center-legality-security-and-evidential-validity
+certifications:
+- ISO/IEC 27001
+- GDPR
+data_residency: European Union
+features:
+- Blockchain notarization of site documents (immutable timestamps, evidential validity)
+- Audit trail recording every action (creation, modification, signature, attachment)
+  with date, time, and user ID
+- AgID-compliant digital preservation
+evidence:
+- source: https://www.mela.work/compliance-center-legality-security-and-evidential-validity
+  keywords: [iso/iec 27001, gdpr, compliance center, audit trail]
+notes: Public Compliance Center page functions as the trust/compliance surface. No
+  dedicated trust.mela.work subdomain, no SOC 2, and no security.txt/vulnerability
+  disclosure program were found.

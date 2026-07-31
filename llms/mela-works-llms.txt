@@ -1,0 +1,47 @@
+# Mela – App per la gestione delle opere di costruzione
+
+> Piattaforma digitale multilingua (IT / EN / ES) dedicata alla gestione dei cantieri.  
+> Include chat di cantiere, AI per rapportini e documenti, archiviazione foto, gestione presenze, firme notarizzate, monitoraggio costi e assegnazione lavori.  
+> L’obiettivo è semplificare e digitalizzare i processi delle imprese edili, dei direttori lavori, dei coordinatori della sicurezza e degli impiantisti.
+
+---
+
+## 🌍 Lingue disponibili
+- [Italiano](https://www.mela.work/it/) – Versione principale con contenuti completi.  
+- [English](https://www.mela.work/) – Versione in inglese con overview e sezioni principali.  
+- [Español](https://www.mela.work/es) – Versione in spagnolo con overview e sezioni chiave.  
+
+---
+
+## 🇮🇹 Contenuti in Italiano
+
+- [Prodotto](https://www.mela.work/it/product) – Funzionalità principali: chat di cantiere, AI per rapportini, archiviazione foto, lettura DDT/fatture, gestione presenze, monitoraggio e assegnazione lavori.  
+- [Soluzioni per le imprese edili](https://www.mela.work/it/solutions/soluzioni-per-le-imprese-edili) – Tutti gli strumenti dedicati alle aziende di costruzioni: rapportini, archivio foto, controllo costi, timbrature, monitoraggio lavori.  
+- [Soluzioni per DL e CSE](https://www.mela.work/it/solutions/soluzioni-per-i-dl-e-i-cse) – Supporto a direttori lavori e coordinatori sicurezza: giornale lavori, verbali notarizzati, archiviazione foto e monitoraggio.  
+- [Soluzioni per gli impiantisti](https://www.mela.work/it/solutions/soluzioni-per-gli-impiantisti) – Rapportini intervento, manutenzioni, lettura documenti, monitoraggio e assegnazione lavori per installatori e tecnici.  
+- [Case Studies](https://www.mela.work/it/case-studies) – Esperienze e testimonianze reali di imprese che hanno adottato Mela.  
+- [Blog](https://www.mela.work/it/blog) – Articoli, guide e approfondimenti su digitalizzazione e gestione cantieri.  
+- [Pricing](https://www.mela.work/it/pricing) – Piani di abbonamento per imprese edili, DL, CSE e impiantisti.  
+- [Supporto](https://www.mela.work/it/support) – Assistenza tecnica, FAQ, tutorial e richiesta demo.  
+
+---
+
+## 🇬🇧 English Content
+
+- [Homepage](https://www.mela.work/) – Official English site. Digital platform for construction management with AI, chat, cost tracking, digital signatures, and photo archiving.  
+- [Product](https://www.mela.work/product) – Core features: site chat, AI assistant for reports, automatic invoice/receipt reading, photo storage, presence tracking, monitoring and task assignment.  
+- [Case Studies](https://www.mela.work/case-studies) – Real-world success stories from companies using Mela.  
+- [Blog](https://www.mela.work/blog) – Insights and articles about digital transformation in construction.  
+- [Pricing](https://www.mela.work/pricing) – Subscription plans tailored for construction companies, site managers, and installers.  
+- [Support](https://www.mela.work/support) – Help center with tutorials, FAQs, and contact for demo requests.  
+
+---
+
+## 🇪🇸 Contenido en Español
+
+- [Inicio](https://www.mela.work/es) – Versión oficial en español. Plataforma digital para la gestión de obras, con chat de obra, IA para informes, firma notarial, archivo fotográfico y control de costes.  
+- [Producto](https://www.mela.work/es/producto) – Funcionalidades clave: chat de obra, IA para partes de trabajo, lectura automática de facturas/albaranes, almacenamiento de fotos, fichajes y asignación de tareas.  
+- [Casos de éxito](https://www.mela.work/es/casos-de-exito) – Historias reales de empresas que utilizan Mela en sus proyectos.  
+- [Blog](https://www.mela.work/es/blog) – Consejos, artículos y novedades sobre la digitalización en el sector de la construcción.  
+- [Precios](https://www.mela.work/es/precios) – Planes de suscripción adaptados a constructoras, directores de obra e instaladores.  
+- [Soporte](https://www.mela.work/es/soporte) – Centro de ayuda con recursos, preguntas frecuentes y solicitud de contacto.  

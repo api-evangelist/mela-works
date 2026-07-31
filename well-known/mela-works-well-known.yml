@@ -1,0 +1,22 @@
+generated: '2026-07-20'
+method: searched
+source: live probes of Mela Works hosts
+host: https://www.mela.work
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /api-catalog
+  status: 404
+- path: /llms.txt
+  status: 200
+  note: captured verbatim at llms/mela-works-llms.txt (not a /.well-known/ document)
+- path: /.well-known/openid-configuration
+  status: 403
+  host: https://app.mela.work
+notes: No /.well-known/ discovery documents are published. security.txt, OIDC/OAuth
+  metadata, and an API catalog are all absent. The app host returns 403 on the OIDC
+  path (not a published metadata document).
