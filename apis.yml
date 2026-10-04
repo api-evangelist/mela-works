@@ -54,7 +54,7 @@ tags:
 - Productivity
 - Mobile
 - Artificial Intelligence
-- Document-Management
+- Document Management
 - Software-as-a-Service
 tags_raw:
 - Company
@@ -68,6 +68,7 @@ tags_raw:
 - AI
 - Document Management
 - SaaS
+- Document-Management
 apis: []
 maintainers:
 - FN: Kin Lane
