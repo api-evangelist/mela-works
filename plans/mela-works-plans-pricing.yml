@@ -1,0 +1,103 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.mela.work/pricing
+sources:
+- https://www.mela.work/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Pro
+published: true
+note: Construction site management SaaS pricing page; API only mentioned as Enterprise feature (integration
+  with legacy systems via API).
+plan_count: 13
+currency: EUR
+plans:
+- name: Free
+  price_text: 0€
+  price: 0
+  currency: EUR
+  period: none
+  unit: user
+  included_quota: Up to 3 tasks
+- name: Pro
+  price_text: 12€
+  price: 12
+  currency: EUR
+  period: month
+  unit: per user per Month, billed annually
+  included_quota: Unlimited tasks and data
+- name: Enterprise
+  price_text: Ask for a quote
+  period: none
+  included_quota: No limits, dedicated support
+- name: Clock-in / Clock-out
+  price_text: 3€
+  price: 3
+  currency: EUR
+  period: month
+  unit: per user
+- name: WhatsApp
+  price_text: 9€
+  price: 9
+  currency: EUR
+  period: month
+  unit: per user
+- name: Work site Safety
+  price_text: from 0€
+  price: 0
+  currency: EUR
+  period: month
+  unit: per user
+- name: Cost analysis
+  price_text: +29€ per month per company
+  price: 29
+  currency: EUR
+  period: month
+  unit: per company
+- name: Data export
+  price_text: +1€ PRO plan per month per user
+  price: 1
+  currency: EUR
+  period: month
+  unit: per user
+- name: Checklists
+  price_text: +1€ PRO plan per month per user
+  price: 1
+  currency: EUR
+  period: month
+  unit: per user
+- name: Calendar and Planning
+  price_text: +3€ PRO plan per month per user
+  price: 3
+  currency: EUR
+  period: month
+  unit: per user
+- name: Mela AI
+  price_text: +2€ PRO plan per month per user
+  price: 2
+  currency: EUR
+  period: month
+  unit: per user
+- name: Work progress
+  price_text: +69€ per month per company
+  price: 69
+  currency: EUR
+  period: month
+  unit: per company
+- name: Invoice reconciliation
+  price_text: from 29€ per month per company
+  price: 29
+  currency: EUR
+  period: month
+  unit: per company
+rate_limit_statements:
+- Up to 3 tasks
